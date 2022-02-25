@@ -40,4 +40,10 @@
     height: 400px;
     float:left;
 }
-
+.pelotachica{
+    background-image: url(ball.png);
+    background-size: 200px 200px;
+    width: 200px;
+    height: 200px;
+    float:left;
+}
